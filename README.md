@@ -1,7 +1,7 @@
 # Portofolio Saya
 
 ## Tentang Saya
-Lulusan SMK Negeri 6 Batam Jurusan Teknik Pengelasan yang memiliki semangat belajar tinggi dan siap bekerja di bidang manufaktur dan pengelasan.
+Saya adalah fresh graduate yang memiliki semangat belajar tinggi, mampu bekerja secara individu maupun dalam tim, serta memiliki kemampuan komunikasi yang baik. Selama masa pendidikan, saya aktif mengembangkan keterampilan akademik dan organisasi yang membantu saya menjadi pribadi yang disiplin, bertanggung jawab, dan mudah beradaptasi. Saya tertarik untuk terus berkembang dan memberikan kontribusi terbaik di lingkungan kerja profesional.
 
 ## Pendidikan
 - SMK Negeri 6 Batam
@@ -9,9 +9,11 @@ Lulusan SMK Negeri 6 Batam Jurusan Teknik Pengelasan yang memiliki semangat bela
 - Lulus Tahun 2026
 
 ## Keahlian
-- SMAW Welding
+- Welding
 - Keselamatan dan Kesehatan Kerja (K3)
 - Penggunaan alat ukur
+- Microsoft word
+- Manajemen waktu
 
 ## Pengalaman PKL
 ### Welder
